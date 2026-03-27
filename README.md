@@ -2,9 +2,8 @@
 
 <h2> My Projects:</h2>
 - <b> Complex system projects </b>
-  - [Self organizing criticality]()
-- <b> Physics Simulations (C++, Python)</b>
-  - [Simulating Physical Phenomena Using C++](https://github.com/kenddoku/PhysicsSimulationsCpp)
-  - [Simulating Physical Phenomena Using Python](https://github.com/kenddoku/PhysicsSimulationsPython)
+  - [A collection of complex system projects](https://github.com/kenddoku/uni-complex-systems)
+- <b> Masters project </b>
+  - [Masters project (HPC cluster managed by SLURM)](https://github.com/kenddoku/PhysicsSimulationsCpp](https://github.com/kenddoku/masters-project-hopfield3d)
 
 
