@@ -9,6 +9,6 @@ Science and Cats Lover 🐱
   - [A collection of complex system projects](https://github.com/kenddoku/uni-complex-systems)
 
 - **Master’s project**
-  - [HPC cluster managed by SLURM](https://github.com/kenddoku/masters-project-hopfield3d)
+  - [My masters project files](https://github.com/kenddoku/masters-project-hopfield3d)
 
 
