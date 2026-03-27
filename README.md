@@ -1,7 +1,4 @@
-# Hi, I'm Krzysztof! 👋  
-[Aspiring Programmer](https://github.com/kenddoku) |  
-[Grad Student of Technical Physics at AGH University of Krakow](https://www.fis.agh.edu.pl/en/) |  
-Science and Cats Lover 🐱  
+# Hi, I'm Krzysztof! An aspiring programmer, grad student of Technical Physics at AGH University of Krakow and cats lover
 
 ## My Projects:
 
