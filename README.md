@@ -2,8 +2,8 @@
 
 ## My Projects:
 
-- **Complex system projects**
-  - [A collection of complex system projects](https://github.com/kenddoku/uni-complex-systems)
+- **The 0-1 Test for Chaos**
+  - [A tool for distinguishing between regular and chaotic dynamics in time series data](https://github.com/kenddoku/the-test-01-for-chaos)
 
 - **Master’s project**
   - [My masters project files](https://github.com/kenddoku/masters-project-hopfield3d)
